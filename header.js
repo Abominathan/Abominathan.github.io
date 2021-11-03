@@ -61,9 +61,9 @@ headerTemplate.innerHTML = `
     <div class=undertitleval> but Useful</div>
     <nav>
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="AllStuff.html">All Stuff</a></li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/AllStuff.html">All Stuff</a></li>
+        <li><a href="/about.html">About</a></li>
 
       </ul>
     </nav>

@@ -31,9 +31,9 @@ footerTemplate.innerHTML = `
     <br>
     <div class=footclass>
 
-        <p>Go back <a href="index.html">Home</a><\p>
-        <p>All the <a href="AllStuff.html">projects</a> <\p>
-        <p>Learn <a href="about.html">About me</a><\p>
+        <p>Go back <a href="/index.html">Home</a><\p>
+        <p>All the <a href="/AllStuff.html">projects</a> <\p>
+        <p>Learn <a href="/about.html">About me</a><\p>
         <p> That's all folks<\p>
 
     </div>

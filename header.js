@@ -9,11 +9,13 @@ headerTemplate.innerHTML = `
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color:  #0a0a23;
+      background-color:  black;
+      border-bottom: 3px solid white;
     }
 
     ul {
       padding: 0px;
+
     }
 
     ul li {
@@ -62,7 +64,7 @@ headerTemplate.innerHTML = `
         <li><a href="index.html">Home</a></li>
         <li><a href="AllStuff.html">All Stuff</a></li>
         <li><a href="about.html">About</a></li>
-        
+
       </ul>
     </nav>
   </header>

@@ -57,7 +57,7 @@ headerTemplate.innerHTML = `
     }
   </style>
   <header>
-    <div class=titleval> Wrong Model</div>
+    <div class=titleval> Wrong Models</div>
     <div class=undertitleval> but Useful</div>
     <nav>
       <ul>
